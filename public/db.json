@@ -1,0 +1,114 @@
+{
+  "coffe": [
+    {
+      "id": 0,
+      "imageUrl": "https://coffee.town/files/resized/products/1_58.700x600w.png",
+      "name": "Бразилия Серрадо",
+      "opis":  "Шоколад, лесной орех, карамель",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 80,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://coffee.town/files/resized/products/1_59.700x600w.png",
+      "name": "АРАБИКА БРАЗИЛИЯ САНТОС",
+      "opis":  "Классическое кофе. Вкус фундука и какао",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 85,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://coffee.town/files/resized/products/shablon-arabika.700x600w.png",
+      "name": "БРАЗИЛИЯ МОДЖАНА",
+      "opis":  "Невысокая кислотность, оттенки какао и орехов",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 90,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://coffee.town/files/resized/products/1_57.700x600w.png",
+      "name": "БРАЗИЛИЯ САНТОС SCR.19",
+      "opis":  "Крупное зерно,насыщенный вкус, который переплетается с какао и оттенками жареных орехов",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 95,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://coffee.town/files/resized/products/1_57.700x600w.png",
+      "name": "БРАЗИЛИЯ САНТОС SCR.19",
+      "opis":  "Невысокая кислотность, оттенки какао и орехов",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 90,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://coffee.town/files/resized/products/1_52.700x600w.png",
+      "name": "АРАБИКА ПЕРУ ОРГАНИК CHANCHAMAYO",
+      "opis":  "Сладковатый вкус с добавлением ноток орехов и шоколада",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 100,
+      "category": 2,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://coffee.town/files/resized/products/1_22.700x600w.png",
+      "name": "АРАБИКА ЭФИОПИЯ",
+      "opis":  "Купаж лучших арабик из Эфиопии",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 100,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://coffee.town/files/resized/products/1_56.700x600w.png",
+      "name": "БРАЗИЛИЯ ЖЕЛТЫЙ БУРБОН",
+      "opis":  "Ценится за чистый букет и незабываемые фруктовые ароматы",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 105,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://coffee.town/files/resized/products/shablon-arabika.700x600w.png",
+      "name": "БРАЗИЛИЯ МОДЖАНА",
+      "opis":  "Невысокая кислотность, оттенки какао и орехов",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 90,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://coffee.town/files/resized/products/1_54.700x600w.png",
+      "name": "АРАБИКА КОЛУМБИЯ",
+      "opis":  "Купаж лучших сортов Колумбийской Арабики",
+      "types": [0, 1],
+      "sizes": [250, 500, 1000],
+      "price": 110,
+      "category": 0,
+      "rating": 4
+    }
+  ]
+}
