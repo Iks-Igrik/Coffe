@@ -295,16 +295,18 @@ b {
 .cart__bottom-buttons {
   display: flex;
   align-items: baseline;
-  padding: 1rem 0;
-  text-decoration: none;
-}
+  padding: 1rem 0;  
+  }
 
+  .cart__bottom-buttons .btn-wide {
+    margin: 15px;
+  }
 .custom-btn {
   width: auto;
   height: 40px;
   color: #fff;
   border-radius: 5px;
-  padding: 10px 25px;
+  padding: 20px 25px;
   font-family: "Lato", sans-serif;
   font-weight: 500;
   background: transparent;
@@ -349,6 +351,8 @@ b {
   line-height: 42px;
   padding: 0;
   border: none;
+  padding-right: 19px;
+  padding-left: 19px;
   }
 
 .btn-block__content {
@@ -370,8 +374,6 @@ b {
   border-bottom: none;
   display: inline-block;
 }
-
-
 
 .btn-wide svg {
   position: absolute;
@@ -472,7 +474,12 @@ border: 1px solid transparent;
 box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5),
     7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
 justify-content: center;
+cursor: pointer;
+}
 
+.btn__cart-item:hover {
+  background-color: #208079;
+  background-image: linear-gradient(315deg, rgb(240, 180, 110) 0%, #03c8a8 74%);
 }
 
 .sort__popup {
